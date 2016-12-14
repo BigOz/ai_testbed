@@ -41,7 +41,7 @@ A series of tests were established and all tests were run on each game. For each
 
 ![Alt text](.images/ex_1_reversi_2.png?raw=true "Experiment 1: Reversi Results")
 
-![Alt text](.images/ex_1_reversi_2.png?raw=true "Experiment 1: Checkers Results")
+![Alt text](.images/ex_1_checkers_2.png?raw=true "Experiment 1: Checkers Results")
 
 At first glance, it would seem the results are predictable – as an agent is given more time and permitted more simulations, their win-ratio increases.
 However, when a similar test is performed with a Monte Carlo agent competing against a random-choice agent 25 times, a different conclusion emerges.
