@@ -1,0 +1,6 @@
+[submodule "reversi_ai_testbed"]
+	path = reversi_ai_testbed
+	url = https://github.com/BigOz/reversi_ai_testbed.git
+[submodule "checkers_ai_testbed"]
+	path = checkers_ai_testbed
+	url = https://github.com/BigOz/checkers_ai_testbed.git
