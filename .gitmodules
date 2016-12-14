@@ -1,6 +1,0 @@
-[submodule "checkers_ai_testbed"]
-	path = checkers_ai_testbed
-	url = ../checkers_ai_testbed/
-[submodule "reversi_ai_testbed"]
-	path = reversi_ai_testbed
-	url = ../reversi_ai_testbed/
